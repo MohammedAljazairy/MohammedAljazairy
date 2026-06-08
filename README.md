@@ -14,42 +14,42 @@ My core focus is **Unity (2D & 3D)** with C#, covering everything from gameplay 
 
 ## 🎮 Unity Projects
 
-### 🦔 [Sonic Green Hill Zone Act 1 — 3D Remake](https://github.com/MohammedAljazairy)
+### 🦔 [Sonic Green Hill Zone Act 1 — 3D Remake](https://github.com/MohammedAljazairy/Sonic-Level-Design-Course)
 `Unity` `C#` `3D`
 
 A faithful 3D recreation of the iconic Sonic level with one-to-one gameplay mechanics: momentum-based movement, spin dash, springs, original enemy behaviours, sound effects, and music. Built with precision to preserve the feel of the original.
 
 ---
 
-### 🏠 [The Mansion Part I](https://github.com/MohammedAljazairy)
+### 🏠 [The Mansion Part I](https://github.com/MohammedAljazairy/The-Mansion-Part-I)
 `Unity` `C#` `First-Person Horror`
 
 A first-person horror game featuring veteran detective Sam and his dog Cooper. Explore Black Hollow Isle en route to Ashbourne Mansion, with survival sequences against giant spiders blocking progression.
 
 ---
 
-### 🏎️ [3D Racing Game (Prototype)](https://github.com/MohammedAljazairy)
+### 🏎️ [3D Racing Game (Prototype)](https://github.com/MohammedAljazairy/3D-Racing-Game)
 `Unity` `C#` `Physics`
 
 Physics-based racing prototype with a fully drivable car controller. Features time-trial circuits, lap timing, checkpoints, and reset mechanics. Vehicle dynamics tuned via WheelColliders, suspension, and traction control.
 
 ---
 
-### 🔮 [Sphere of the Ancients (3D)](https://github.com/MohammedAljazairy)
+### 🔮 [Sphere of the Ancients (3D)](https://github.com/MohammedAljazairy/Sphere-of-the-Ancients)
 `Unity` `C#` `3D`
 
 A sphere with degrading armour as it takes hits from rocks, regaining health by collecting shards. Navigates through mountains to reach a portal — a small but complete gameplay loop.
 
 ---
 
-### 🗡️ [3D Platformer Game](https://github.com/MohammedAljazairy)
+### 🗡️ [3D Platformer Game](https://github.com/MohammedAljazairy/3D-Platformer-Game)
 `Unity` `3D GameKit`
 
 Single-level platformer with combat mechanics to fight enemies while navigating the level. Built using Unity's 3D GameKit.
 
 ---
 
-### 🌿 [2D Platformer Game](https://github.com/MohammedAljazairy)
+### 🌿 [2D Platformer Game](https://github.com/MohammedAljazairy/2D-Platformer)
 `Unity` `2D GameKit`
 
 Two-level platformer prototype featuring keys, gates, and enemies — built using Unity's 2D GameKit.
@@ -58,7 +58,7 @@ Two-level platformer prototype featuring keys, gates, and enemies — built usin
 
 ## 🕹️ Other Game Projects
 
-### 🎮 [Blind Leap](https://itch.io)
+### 🎮 [Blind Leap](https://omarjellyfish.itch.io/blind-leap)
 `C++` `SFML` `Box2D` · *2-Day Game Jam*
 
 Puzzle platformer built in 48 hours. Players use wall environments to navigate, collect a key, avoid enemies, and reach the goal. A complete loop shipped under pressure.

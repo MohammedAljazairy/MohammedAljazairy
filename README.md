@@ -96,7 +96,7 @@ Puzzle platformer built in 48 hours. Players use wall environments to navigate, 
 
 - 📧 mohammedaljazairy@icloud.com
 - 📍 Cairo, Egypt
-- 💼 [LinkedIn](https://linkedin.com/in/MohammedAljazairy)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-aljazairy-870167309/)
 
 ---
 
